@@ -2,8 +2,8 @@
 > A [Vue 2.0](http://vuejs.org/guide/) simple crytocurrencies demo widget with real-time data updates.
 
 <p align="center">
-	<a href="http://www.ozoono.com/vuejs/vue-crytocurrencies/index.html" target="_blank">
- 		<img src="http://www.ozoono.com/vuejs/vue-crytocurrencies/screenshot.png" alt="vue-cryptocurrencies">
+	<a href="http://www.ozoono.com/vuejs/vue-cryptocurrencies/index.html" target="_blank">
+ 		<img src="http://www.ozoono.com/vuejs/vue-cryptocurrencies/screenshot.png" alt="vue-cryptocurrencies">
  		<br/>
  		Live demo
  	</a>
