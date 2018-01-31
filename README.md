@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="http://www.ozoono.com/vuejs/vue-cryptocurrencies/index.html" target="_blank">
- 		
+ 		<img src="http://www.ozoono.com/vuejs/vue-cryptocurrencies/screenshot.png" alt="vue-cryptocurrencies demo" />
  		<br/>
  		- Live demo -
  	</a>
