@@ -21,7 +21,7 @@
 
     <div class="footer">
       <button class="ui basic button">
-        <a href="fgn"><i class="github icon black"></i>Repo on Github</a>
+        <a href="https://github.com/ozoono/vue-cryptocurrencies"><i class="github icon black"></i>Repo on Github</a>
       </button>
 
       <button class="ui basic button"> 
