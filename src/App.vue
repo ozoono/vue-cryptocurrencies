@@ -3,7 +3,7 @@
     <div class="ui segments ">
 
       <div class="ui tertiary segment">
-        <h4><img class="ui middle aligned image logo" src="./assets/logo-vue.png" /> Crytocurrencies</h4>
+        <h4><img class="ui middle aligned image logo" src="./assets/logo-vue.png" /> Cryptocurrencies</h4>
       </div>
 
       <div class="ui grey segment">
