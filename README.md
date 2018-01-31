@@ -1,4 +1,4 @@
-# vue-crytocurrencies
+# vue-cryptocurrencies
 > A [Vue 2.0](http://vuejs.org/guide/) simple cryptocurrencies demo widget with real-time data updates.
 
 <p align="center">
