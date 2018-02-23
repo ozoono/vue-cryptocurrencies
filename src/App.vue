@@ -25,7 +25,7 @@
       </button>
 
       <button class="ui basic button"> 
-        <a href="http://vuejs.org"><i class="checkmark icon black"></i>Vue 2.0</a>   
+        <a href="http://vuejs.org"><i class="checkmark icon black"></i>Vue 2.x</a>   
       </button>
     </div>
     
