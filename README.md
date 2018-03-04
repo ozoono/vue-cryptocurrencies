@@ -1,5 +1,5 @@
 # vue-cryptocurrencies
-> A [Vue 2.0](http://vuejs.org/guide/) simple cryptocurrencies demo widget with real-time data updates.
+> A [Vue 2.x](http://vuejs.org/guide/) simple cryptocurrencies demo widget with real-time data updates.
 
 <p align="center">
 	<a href="http://www.ozoono.com/vuejs/vue-cryptocurrencies/index.html" target="_blank">
