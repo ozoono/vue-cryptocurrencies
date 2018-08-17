@@ -10,7 +10,7 @@
 </p>
 
 ## Notes 
-* Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli)
+* Built using `webpack` starter in [`vue-cli`](https://github.com/vuejs/vue-cli) (Vue CLI 2)
 
 * Quotes are obtained from **CryptoCompare** through its streaming API ([Documentation here](https://www.cryptocompare.com/API/)). Cryptocompare also provides a javascript library with some utility functions to map the responses, which is included in index.html as an external js file.
 
